@@ -1,0 +1,4 @@
+Modèle,Acc. Type (%),Acc. Couleur Hamming (%),Acc. Couleur Exact (%),Test Loss,Paramètres
+TP1 - Baseline CNN,98.84,98.78,95.33,0.1154,11170637
+TP2 - CNN + BN + Aug,48.9,71.03,21.06,1.8029,424429
+TP3 - MobileNetV2 Transfer,70.97,89.82,69.76,0.8572,2917197
